@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 using System.Threading;
 using System.Configuration;
 using Microsoft.CognitiveServices.SpeechRecognition;
+using System.IO;
 
 
 namespace BingTest
@@ -55,15 +56,17 @@ namespace BingTest
 		private void ResponseReceived(object sender, PartialSpeechResponseEventArgs e)
 		{
 			string result = e.PartialResult;
-			
+			string path = @"C:\Users\erenw\Desktop\test.txt";
 			Dispatcher.Invoke(() =>
 			{
 				Responsetxt.Text = (e.PartialResult);
 				Responsetxt.Text += ("\n");
 				
-				System.IO.File.WriteAllText(@"C:\Users\erenw\Desktop\test.txt", result);
+				//File.AppendAllLines(path, new[] { result });
+				//File.WriteAllText(@"C:\Users\erenw\Desktop\test.txt", result);
 			});
-			
+			File.AppendAllLines(path, new[] { result });
+
 
 		}
 
