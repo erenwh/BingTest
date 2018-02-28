@@ -1,0 +1,16 @@
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest.csprojResolveAssemblyReference.cache
+D:\Projects\BingTest\BingTest\obj\Debug\MainWindow.g.cs
+D:\Projects\BingTest\BingTest\obj\Debug\App.g.cs
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest_MarkupCompile.cache
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest_MarkupCompile.lref
+D:\Projects\BingTest\BingTest\bin\Debug\BingTest.exe.config
+D:\Projects\BingTest\BingTest\bin\Debug\BingTest.exe
+D:\Projects\BingTest\BingTest\bin\Debug\BingTest.pdb
+D:\Projects\BingTest\BingTest\bin\Debug\SpeechClient.dll
+D:\Projects\BingTest\BingTest\obj\Debug\MainWindow.baml
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest.g.resources
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest.Properties.Resources.resources
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest.csproj.GenerateResource.Cache
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest.csproj.CoreCompileInputs.cache
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest.exe
+D:\Projects\BingTest\BingTest\obj\Debug\BingTest.pdb
